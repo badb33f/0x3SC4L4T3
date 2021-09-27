@@ -4,7 +4,7 @@
 
 <img align="right" alt="GIF" height="300px" width="300px" src="https://media1.giphy.com/media/d31wIu3HgY048MKs/giphy.gif?cid=ecf05e47lmalxfv1v6ut4if34h1evw1t4zy068xl381ithtp&rid=giphy.gif&ct=g" />
 
-- 📫 How to reach me: saadiqbal2506@gmail.com
+- How to reach me: saadiqbal2506@gmail.com
 - ctftime: https://ctftime.org/user/119286
 
 <br>
