@@ -1,6 +1,6 @@
-### Hi, I'm Saad Iqbal and I did my graduation in BS Computer Science from FAST Lahore 👋
+### Hi, I'm Saad Iqbal and a computer science graduate from FAST Lahore 👋
 
-**Currently a Mobile Security Researcher residing in Pakistan | Programming Tutor | C/C++ Developer | Desktop and Web Application Developer**
+** Security Researcher residing in Pakistan | Programming Tutor | C/C++ Developer | Desktop and Web Application Developer **
 
 <img align="right" alt="GIF" height="300px" width="300px" src="https://media3.giphy.com/media/DHBGehJ3FSZEygszX3/giphy.gif?cid=ecf05e47sazvs8d76a6oklqdbsna79vv1ytust3x6b7ha7j7&rid=giphy.gif&ct=g" />
 
